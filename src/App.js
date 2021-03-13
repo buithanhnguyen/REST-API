@@ -10,6 +10,7 @@ function App() {
       <br />
       <div className="container">
        <HomePage></HomePage>
+       
       </div>
     </div>
   );
